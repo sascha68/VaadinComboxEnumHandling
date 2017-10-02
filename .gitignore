@@ -1,0 +1,55 @@
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Mac stuff
+.DS_Store
+
+#Android files
+/.apt_generated/
+
+# Eclipse
+/target/*
+/bin/
+tmp/
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.settings/
+*/.settings/
+.classpath
+*/.classpath
+.project
+*/.project
+.factorypath
+*/.factorypath
+*.settings/com.vaadin.integration.eclipse.prefs
+
+#Vaadin
+styles.css
+addons.scss
+.designer
+styles.scss.cache
+
+#Class files
+*.class
+
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+
+# Log Files
+*.log
